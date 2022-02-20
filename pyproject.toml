@@ -6,6 +6,8 @@ authors = ["Heber Trujillo <heber.trj.urt@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+pandas = "^1.4.1"
+cassandra-driver = "^3.25.0"
 
 [tool.poetry.dev-dependencies]
 
